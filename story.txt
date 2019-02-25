@@ -1,1 +1,4 @@
 	A day in class starts with sitting down and taking out a laptop for taking notes. Next, listening to a proffesor go over valuable information. While this is going on, I am taking notes. These notes help when i faced the difficult p2 assignment, a fearsome enemy.
+
+Binary Search Trees were a review, until we were challenged with a intimidating method (remove).
+This method had to be created with careful consideration of border cases. Then I tried to submit my BST to Gradescope and multiple exceptions were found...
