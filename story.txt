@@ -2,3 +2,5 @@
 
 Binary Search Trees were a review, until we were challenged with a intimidating method (remove).
 This method had to be created with careful consideration of border cases. Then I tried to submit my BST to Gradescope and multiple exceptions were found...
+
+Then I found I also have problem with AVL implementation. I tried several times,but my AVL implmentation just could not rotate in the right way, so I asked a TAin the next day and figured it out. 
